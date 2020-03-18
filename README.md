@@ -1,6 +1,7 @@
 # scipy-2019-pandas
 Pandas tutorial for SciPy 2019
 
+The video recorded from the SciPy 2019 conference can be found [here](https://www.youtube.com/watch?v=5rNu16O3YNE).
 
 # Installation
 
